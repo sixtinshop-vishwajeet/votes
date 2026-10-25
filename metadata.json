@@ -1,0 +1,6 @@
+{
+  "name": "Ghazipur Creator Awards - Weekly Influencer Voting",
+  "description": "Weekly voting platform for top digital creators and influencers of Ghazipur. Live leaderboard, real-time vote updates, 99 votes quota per person, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
